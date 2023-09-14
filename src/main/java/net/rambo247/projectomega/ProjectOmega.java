@@ -1,4 +1,4 @@
-package net.rambo247.project_omega;
+package net.rambo247.projectomega;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
@@ -16,7 +16,7 @@ import org.slf4j.Logger;
 @Mod(ProjectOmega.MOD_ID)
 public class ProjectOmega {
 
-  public static final String MOD_ID = "project_omega";
+  public static final String MOD_ID = "projectomega";
   private static final Logger LOGGER = LogUtils.getLogger();
 
   public ProjectOmega() {
